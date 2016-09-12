@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="cards">
+        <item>JOKER</item>
+        <item>joker</item>
+        <item>♥A</item>
+        <item>♥2</item>
+        <item>♥3</item>
+        <item>♥4</item>
+        <item>♥5</item>
+        <item>♥6</item>
+        <item>♥7</item>
+        <item>♥8</item>
+        <item>♥9</item>
+        <item>♥10</item>
+        <item>♥J</item>
+        <item>♥Q</item>
+        <item>♥K</item>
+        <item>♠A</item>
+        <item>♠2</item>
+        <item>♠3</item>
+        <item>♠4</item>
+        <item>♠5</item>
+        <item>♠6</item>
+        <item>♠7</item>
+        <item>♠8</item>
+        <item>♠9</item>
+        <item>♠10</item>
+        <item>♠J</item>
+        <item>♠Q</item>
+        <item>♠K</item>
+        <item>♦A</item>
+        <item>♦2</item>
+        <item>♦3</item>
+        <item>♦4</item>
+        <item>♦5</item>
+        <item>♦6</item>
+        <item>♦7</item>
+        <item>♦8</item>
+        <item>♦9</item>
+        <item>♦10</item>
+        <item>♦J</item>
+        <item>♦Q</item>
+        <item>♦K</item>
+        <item>♣A</item>
+        <item>♣2</item>
+        <item>♣3</item>
+        <item>♣4</item>
+        <item>♣5</item>
+        <item>♣6</item>
+        <item>♣7</item>
+        <item>♣8</item>
+        <item>♣9</item>
+        <item>♣10</item>
+        <item>♣J</item>
+        <item>♣Q</item>
+        <item>♣K</item>
+    </array>
+    
+    <string name="app_name">GuanDan</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="skip">不出</string>
+    <string name="hint">提示</string>
+    <string name="discard">出牌</string>
+    <string name="addcards">加牌：</string>
+</resources>
